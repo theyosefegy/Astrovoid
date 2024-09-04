@@ -1,6 +1,6 @@
 import pygame
 import random
-from Asteroid import Asteroid
+from Sprites.Asteroid import Asteroid
 from constants import *
 
 
