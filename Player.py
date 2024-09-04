@@ -38,6 +38,8 @@ class Player(CircleShape):
         if (self.timer>0):
             self.timer -= dt
 
+        
+
     def rotate(self, dt):
         self.rotation += PLAYER_TURN_SPEED * dt
 
